@@ -1,0 +1,13 @@
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\bin\Debug\xdroid.WebViewDemo.dll
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\bin\Debug\xdroid.WebViewDemo.pdb
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\bin\Debug\xdroid.WebViewDemo.dll.mdb
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\bin\Debug\xdroid.WebViewDemo.apk
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\bin\Debug\xdroid.WebViewDemo-Signed.apk
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\xdroid.WebViewDemo.dll
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\xdroid.WebViewDemo.pdb
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\android\bin\xdroid.WebViewDemo.apk
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\res\layout\main.xml
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\res\values\strings.xml
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\res\drawable\icon.png
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\R.cs.flag
+d:\projects\xamarin-hacks\Xamarin-Hacks\xdroid.WebViewDemo\obj\Debug\uploadflags.txt
